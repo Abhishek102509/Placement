@@ -6,7 +6,7 @@ class Book
     String BookName;
     Book()
     {
-        Scanner scan=new Scanner(System.in);
+        Scanner scan =new Scanner(System.in);
         System.out.println("Enter Page Number,Book Name, Cost and Selling Price");
          BookName=scan.next();
         PageNumber=scan.nextInt();
