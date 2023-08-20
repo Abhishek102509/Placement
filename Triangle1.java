@@ -4,7 +4,7 @@ int a,b,c;
 double s,ar;
 Triangle1(int x,int y,int z)
 {
-a=x;
+a=x;  
 b=y;
 c=z;
 System.out.println("This is class triangle");
